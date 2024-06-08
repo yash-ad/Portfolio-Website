@@ -199,7 +199,7 @@ header .navbar ul li a:hover {
   width: 70%;
   height: 70%;
   margin-top: 5rem;
-  margin-left: 8rem;
+  margin-left: 5rem;
   border-radius: 50%;
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
   cursor: pointer;
@@ -263,7 +263,7 @@ font-weight: 600
     color: #00d9ff;
     font-weight: 600;
     padding: 1rem 0;
-    margin-left: 10rem;
+    margin-left: 9rem;
   }
   .home .btn {
     cursor: pointer;
@@ -348,7 +348,7 @@ font-weight: 600
 /* hero media queries starts*/
 @media (max-width: 450px) {
   .home .btn {
-    margin-left:-4rem;
+    margin-left:-8rem;
   }
   .socials {
     margin-top: 12rem;

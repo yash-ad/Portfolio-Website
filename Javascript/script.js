@@ -147,7 +147,7 @@ VanillaTilt.init(document.querySelectorAll(".tilt"), {
 
 ///.Typed.js effect
 var typed = new Typed(".typing-text", {
-    strings: ["Frontend developer"],
+    strings: ["Frontend developer","React developer"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 50,
